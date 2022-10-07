@@ -1,0 +1,16 @@
+C:\Users\nidal\source\repos\Banka\Banka\bin\Debug\net5.0\Banka.exe
+C:\Users\nidal\source\repos\Banka\Banka\bin\Debug\net5.0\Banka.deps.json
+C:\Users\nidal\source\repos\Banka\Banka\bin\Debug\net5.0\Banka.runtimeconfig.json
+C:\Users\nidal\source\repos\Banka\Banka\bin\Debug\net5.0\Banka.runtimeconfig.dev.json
+C:\Users\nidal\source\repos\Banka\Banka\bin\Debug\net5.0\Banka.dll
+C:\Users\nidal\source\repos\Banka\Banka\bin\Debug\net5.0\Banka.pdb
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\Banka.csproj.AssemblyReference.cache
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\Banka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\Banka.AssemblyInfoInputs.cache
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\Banka.AssemblyInfo.cs
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\Banka.csproj.CoreCompileInputs.cache
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\Banka.dll
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\refint\Banka.dll
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\Banka.pdb
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\Banka.genruntimeconfig.cache
+C:\Users\nidal\source\repos\Banka\Banka\obj\Debug\net5.0\ref\Banka.dll
